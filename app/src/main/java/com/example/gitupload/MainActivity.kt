@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
             GitUploadTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     BusinessCard(
-                        name = "Android",
+                        name = "Yousef",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
